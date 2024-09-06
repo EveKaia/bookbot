@@ -1,2 +1,2 @@
 # bookbot
-Bookbot (a Guided Project on BootDev)
+BookBot is my first project!
